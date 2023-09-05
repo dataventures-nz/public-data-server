@@ -10,7 +10,7 @@
   "author": "blair@dataventures.nz",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.1078.0",
+    "aws-sdk": "^2.1451.0",
     "bson": "^4.6.1",
     "cors": "^2.8.5",
     "date-fns": "^2.28.0",
